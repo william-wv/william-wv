@@ -1,4 +1,4 @@
-## Olá Mundo 👋
+## "Olá Mundo" 👋
 
 
 **william-wv/william-wv** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
@@ -15,3 +15,4 @@ Linguagens e ferramentas:
   
 
   ![HTML5 (1)](https://github.com/user-attachments/assets/0ac0173f-2617-48c0-9451-03256252e25f)
+  ![css (1)](https://github.com/user-attachments/assets/6f8e53de-d33c-4272-b770-52f54241e1ca)
