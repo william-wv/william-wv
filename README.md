@@ -14,4 +14,4 @@ Sobre Mim:
 Linguagens e ferramentas:
   
 
-![HTML5](https://github.com/user-attachments/assets/ef20b5cd-5995-4305-910c-a0a2dee56d38)
+![HTML5](https://github.com/user-attachments/assets/11a9ac05-3e23-44c7-8c78-a38c9466d3eb)
