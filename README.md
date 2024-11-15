@@ -15,5 +15,6 @@ Linguagens e ferramentas:
   
 
   ![HTML5 (1)](https://github.com/user-attachments/assets/0ac0173f-2617-48c0-9451-03256252e25f)
-  ![pngwing com](https://github.com/user-attachments/assets/11986f3a-22ec-4828-bdfa-51ade2c1a1d5)
+  ![css](https://github.com/user-attachments/assets/1df7b094-249e-482b-aff8-5571984db199)
+
 
