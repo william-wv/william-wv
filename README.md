@@ -1,8 +1,5 @@
 ## "Olá Mundo" 👋
 
-
-**william-wv/william-wv** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
-
 Sobre Mim:
 
 - 🔭 Atualmente estou estudando TSI na UTFPR;
