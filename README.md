@@ -6,6 +6,7 @@ Sou  **Desenvolvedor** apaixonado por tecnologia. Atualmente, curso **Sistemas p
 <div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=william-wv&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-wv&theme=tokyonight)
 
 </div>
 
