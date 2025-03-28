@@ -8,11 +8,6 @@ Sobre Mim:
 - 📫 Como entrar em contato comigo: falecom.willwv@gmail.com
 - 😄 Pronomes: Ele/Dele
 
-Linguagens e ferramentas:
-
-  html , css , javascript // typescript  , vue.js , react.js
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-wv&theme=tokyonight)
 
 
