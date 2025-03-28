@@ -6,7 +6,7 @@ Sou  **Desenvolvedor** apaixonado por tecnologia. Atualmente, curso **Sistemas p
 <div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=william-wv&show_icons=true&count_private=true&hide_title=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-wv&theme=tokyonight)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=william-wv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -47,12 +47,17 @@ Busco uma oportunidade **remota** como **Desenvolvedor**, onde possa aplicar min
 <a href="https://www.instagram.com/dev.willwendling/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+  <a href="https://wa.me/47992372960" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+  	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 <a href="https://www.linkedin.com/in/william-wendling-veiga-88574526a/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 <a href="mailto:falecom.willwv@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 </div>
 
 ---
