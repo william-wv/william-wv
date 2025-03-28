@@ -3,9 +3,8 @@
 ### 💻 Sobre mim
 Sou  **Desenvolvedor** apaixonado por tecnologia. Atualmente, curso **Sistemas para Internet** na **UTFPR** e busco constantemente aprimorar minhas habilidades para entregar soluções eficientes e inovadoras.
 
-<div>
+<div style="display: "flex" >
 
-  
 [![card](https://github-readme-stats.vercel.app/api?username=william-wv&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=william-wv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
