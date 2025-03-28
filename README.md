@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Igor Emanuel!
+# 👋 Olá, eu sou o William Wendling Veiga!
 
 ### 💻 Sobre mim
 Sou um **Desenvolvedor** e **Data Analyst** apaixonado por tecnologia e análise de dados. Atualmente, curso **Sistemas para Internet** na **UTFPR** e busco constantemente aprimorar minhas habilidades para entregar soluções eficientes e inovadoras.
