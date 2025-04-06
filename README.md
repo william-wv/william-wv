@@ -31,7 +31,7 @@ Sou  **Desenvolvedor** apaixonado por tecnologia. Atualmente, curso **Sistemas p
 ---
 
 ### 📊 Experiência
-Tenho experiência na criação de dashboards interativos, análise de dados para insights estratégicos e desenvolvimento de aplicações modernas e responsivas.
+Tenho experiência na criação de dashboards interativos para insights estratégicos e desenvolvimento de aplicações modernas e responsivas.
 
 - **Front-End:**  Vue.js
 - **Banco de Dados:**  PostgreSQL
