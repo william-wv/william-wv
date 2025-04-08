@@ -41,7 +41,7 @@ Tenho experiência na criação de dashboards interativos para insights estraté
 ---
 
 ### 🎯 Objetivo Profissional
-Busco uma oportunidade **remota** como **Desenvolvedor**, onde possa aplicar minhas habilidades e contribuir para projetos desafiadores.
+Busco uma oportunidade **remota** ou **presencial**  como **Desenvolvedor**, onde possa aplicar minhas habilidades e contribuir para projetos desafiadores.
 
 ---
 
