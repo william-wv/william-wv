@@ -21,7 +21,9 @@ Sou  **Desenvolvedor** apaixonado por tecnologia. Atualmente, curso **Sistemas p
 <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px"/>
 
 </div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iguemanuel&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iguemanuel&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iguemanuel&layout=compact)
 ---
 
 ### 📊 Experiência
