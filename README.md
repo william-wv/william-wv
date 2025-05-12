@@ -21,9 +21,6 @@ Sou  **Desenvolvedor** apaixonado por tecnologia. Atualmente, curso **Sistemas p
 <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px"/>
 
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iguemanuel&show_icons=true&count_private=true&hide_title=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iguemanuel&langs_count=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iguemanuel&layout=compact)
 ---
 
 ### 📊 Experiência
@@ -33,6 +30,11 @@ Tenho experiência na criação de dashboards interativos para insights estraté
 - **Banco de Dados:**  PostgreSQL
 - **Idiomas:** Inglês intermediário
 - **Edição de imagens:**  Gimp e Figma
+
+---
+
+[![card](https://github-readme-stats.vercel.app/api?username=william-wv&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=william-wv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
