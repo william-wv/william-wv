@@ -34,7 +34,7 @@ Tenho experiência na criação de dashboards interativos para insights estraté
 ---
 
 [![card](https://github-readme-stats.vercel.app/api?username=william-wv&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=william-wv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=william-wv&layout=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -67,7 +67,6 @@ Vamos construir algo incrível juntos! 🚀
 
 <!--
 
-<img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40px"/>
 <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"  width="40px"/>
 <img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40px"/>
 <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px"/>
