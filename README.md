@@ -34,7 +34,7 @@ Tenho experiência na criação de dashboards interativos para insights estraté
 ---
 
 [![card](https://github-readme-stats.vercel.app/api?username=william-wv&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=william-wv&layout=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=william-wv&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
