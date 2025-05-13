@@ -28,6 +28,7 @@ Sou  **Desenvolvedor** apaixonado por tecnologia. Atualmente, curso **Sistemas p
 Tenho experiência na criação de dashboards interativos para insights estratégicos e desenvolvimento de aplicações modernas e responsivas.
 
 - **Front-End:**  Vue.js
+- **Back-End:**  PHP
 - **Banco de Dados:**  PostgreSQL
 - **Idiomas:** Inglês intermediário
 - **Edição de imagens:**  Gimp e Figma
